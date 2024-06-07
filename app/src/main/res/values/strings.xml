@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyAppMain</string>
+    <string name="Titulo_RL_Admin">Menu</string>
+    <string name="Txt_ventana">Ventana-01</string>
+    <string name="Txt_operadores">Ir a operadores</string>
+    <string name="Menu_operadores">Operadores</string>
+
+    <string name="Txt_suma">Sumar</string>
+    <string name="Txt_resta">Restar</string>
+    <string name="Txt_multiplicacion">Multiplicar</string>
+    <string name="Txt_division">Dividir</string>
+    <string name="Txt_piramide">Piramide</string>
+    <string name="Txt_numero">Agregue un numero</string>
+    <string name="Txt_resultado">Resultado</string>
+
+    <string name="resultadoS">El resultado de la suma es: \n %1$s</string>
+    <string name="resultadoR">El resultado de la resta es: \n %1$s</string>
+    <string name="resultadoM">El resultado de la multiplicacion es: \n %1$s</string>
+    <string name="resultadoD">El resultado de la division es: \n %1$s</string>
+    <string name="error_input">Por favor, ingrese números válidos.</string>
+    <string name="Txt_dibujar_piramide">Dibujar piramide</string>
+
+    <string name="Txt_reiniciar">Reiniciar</string>
+
+</resources>
